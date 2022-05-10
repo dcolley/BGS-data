@@ -1,4 +1,4 @@
-# Convert BGS easting/northing to lat/lng
+# Convert BGS easting/northing => lat/lng => geojson
 
 ## Dependencies
 
@@ -35,5 +35,5 @@ Use the spreadsheet
 
 # Credits
 
-- BGS
-- 
+- BGS https://www.bgs.ac.uk/technologies/bulk-conversion-of-coordinates/
+ 
