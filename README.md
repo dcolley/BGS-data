@@ -45,6 +45,7 @@ Use the spreadsheet
 
 # Credits & reference
 
+- https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid
 - https://digimap.edina.ac.uk/webhelp/os/data_information/os_data_issues/ng_converter.htm
 - https://digimap.edina.ac.uk/webhelp/os/data_information/os_data_issues/grid_ref_conversion.htm
 - BGS https://www.bgs.ac.uk/technologies/bulk-conversion-of-coordinates/
