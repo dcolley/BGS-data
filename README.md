@@ -1,4 +1,4 @@
-# Convert BGS easting/northing => lat/lng => geojson
+# Convert OS National Grid => easting/northing => lat/lng => geojson
 
 ## Problem definition
 
